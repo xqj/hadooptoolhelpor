@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfHostConfigItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <HostConfigItem>
+    <Name>default</Name>
+    <Host>192.168.87.64</Host>
+    <Port>18000</Port>
+    <ItemType>sqoop</ItemType>
+  </HostConfigItem>  
+    <HostConfigItem>
+        <Name>default</Name>
+        <Host>192.168.87.64</Host>
+        <Port>10000</Port>
+        <ItemType>hive</ItemType>
+    </HostConfigItem>
+    <HostConfigItem>
+        <Name>default</Name>
+        <Host>192.168.87.64</Host>
+        <Port>18001</Port>
+        <ItemType>mahout</ItemType>
+    </HostConfigItem>
+</ArrayOfHostConfigItem>

@@ -1,0 +1,5 @@
+D:\Project\hive\SystemConfig\bin\Release\hostConfig.xml
+D:\Project\hive\SystemConfig\bin\Release\SystemConfig.dll
+D:\Project\hive\SystemConfig\bin\Release\SystemConfig.pdb
+D:\Project\hive\SystemConfig\obj\Release\SystemConfig.dll
+D:\Project\hive\SystemConfig\obj\Release\SystemConfig.pdb

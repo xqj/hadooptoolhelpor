@@ -1,0 +1,15 @@
+D:\Project\SVN\Hive\hive\DataConverionTool\obj\Debug\DataConverionTool.csprojResolveAssemblyReference.cache
+D:\Project\SVN\Hive\hive\DataConverionTool\bin\Debug\hostConfig.xml
+D:\Project\SVN\Hive\hive\DataConverionTool\bin\Debug\DataConverionTool.dll
+D:\Project\SVN\Hive\hive\DataConverionTool\bin\Debug\DataConverionTool.pdb
+D:\Project\SVN\Hive\hive\DataConverionTool\bin\Debug\HiveService.dll
+D:\Project\SVN\Hive\hive\DataConverionTool\bin\Debug\LogService.dll
+D:\Project\SVN\Hive\hive\DataConverionTool\bin\Debug\SystemConfig.dll
+D:\Project\SVN\Hive\hive\DataConverionTool\bin\Debug\Thrift.dll
+D:\Project\SVN\Hive\hive\DataConverionTool\bin\Debug\hive-sharp-lib.dll
+D:\Project\SVN\Hive\hive\DataConverionTool\bin\Debug\HiveService.pdb
+D:\Project\SVN\Hive\hive\DataConverionTool\bin\Debug\LogService.pdb
+D:\Project\SVN\Hive\hive\DataConverionTool\bin\Debug\SystemConfig.pdb
+D:\Project\SVN\Hive\hive\DataConverionTool\bin\Debug\Thrift.pdb
+D:\Project\SVN\Hive\hive\DataConverionTool\obj\Debug\DataConverionTool.dll
+D:\Project\SVN\Hive\hive\DataConverionTool\obj\Debug\DataConverionTool.pdb

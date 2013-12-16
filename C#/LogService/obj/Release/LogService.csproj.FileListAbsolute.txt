@@ -1,0 +1,8 @@
+D:\Project\hive\LogService\bin\Release\hostConfig.xml
+D:\Project\hive\LogService\bin\Release\LogService.dll
+D:\Project\hive\LogService\bin\Release\LogService.pdb
+D:\Project\hive\LogService\bin\Release\SystemConfig.dll
+D:\Project\hive\LogService\bin\Release\SystemConfig.pdb
+D:\Project\hive\LogService\obj\Release\LogService.csprojResolveAssemblyReference.cache
+D:\Project\hive\LogService\obj\Release\LogService.dll
+D:\Project\hive\LogService\obj\Release\LogService.pdb

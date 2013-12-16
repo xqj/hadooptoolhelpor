@@ -1,0 +1,16 @@
+D:\Project\test\hivetest\SystemConfig\bin\Debug\hostConfig.xml
+D:\Project\test\hivetest\SystemConfig\bin\Debug\SystemConfig.dll
+D:\Project\test\hivetest\SystemConfig\bin\Debug\SystemConfig.pdb
+D:\Project\test\hivetest\SystemConfig\obj\Debug\SystemConfig.dll
+D:\Project\test\hivetest\SystemConfig\obj\Debug\SystemConfig.pdb
+D:\Project\hive\SystemConfig\bin\Debug\hostConfig.xml
+D:\Project\hive\SystemConfig\bin\Debug\SystemConfig.dll
+D:\Project\hive\SystemConfig\bin\Debug\SystemConfig.pdb
+D:\Project\hive\SystemConfig\obj\Debug\SystemConfig.csprojResolveAssemblyReference.cache
+D:\Project\hive\SystemConfig\obj\Debug\SystemConfig.dll
+D:\Project\hive\SystemConfig\obj\Debug\SystemConfig.pdb
+D:\Project\SVN\Hive\hive\SystemConfig\bin\Debug\hostConfig.xml
+D:\Project\SVN\Hive\hive\SystemConfig\bin\Debug\SystemConfig.dll
+D:\Project\SVN\Hive\hive\SystemConfig\bin\Debug\SystemConfig.pdb
+D:\Project\SVN\Hive\hive\SystemConfig\obj\Debug\SystemConfig.dll
+D:\Project\SVN\Hive\hive\SystemConfig\obj\Debug\SystemConfig.pdb

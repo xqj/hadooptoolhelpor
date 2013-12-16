@@ -1,0 +1,2 @@
+thrift -gen csharp XXX.thrift
+thrift -gen java XXX.thrift

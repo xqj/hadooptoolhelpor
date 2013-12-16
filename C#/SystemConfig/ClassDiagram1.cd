@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SystemConfig.BaseConfigService" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAABAAAAAIAQAAAAAAAACA=</HashCode>
+      <FileName>BaseConfigService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystemConfig.ConfigManager" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>ConfigManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystemConfig.DatabaseConfigService" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEABAAAAAAAAAAAAAAAAAAAAAAAAIAQAAAAAAAACA=</HashCode>
+      <FileName>DatabaseConfigService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SystemConfig.DefineTable" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAQAAAAAAAAAAAIAAAAAAAAAAAAAAQAAEAAAAAAA=</HashCode>
+      <FileName>DefineTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystemConfig.HostConfigService" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAIAQAAAAAAAACA=</HashCode>
+      <FileName>HostConfigService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SystemConfig.LogConfigService" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAIAQAAAAAAAACA=</HashCode>
+      <FileName>LogConfigService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SystemConfig.SystemConfig" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>SystemConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystemConfig.XmlConfigSerializer" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAACAAAAAAAAAAAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>XmlConfigSerializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="SystemConfig.BaseConfigItem" Collapsed="true">
+    <Position X="9.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>BaseConfigItem.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SystemConfig.DatabaseConfigItem" Collapsed="true">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAQAAAAACAACAQAAAAAAAgA=</HashCode>
+      <FileName>DatabaseConfigItem.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SystemConfig.HostConfigItem" Collapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQACAAACAAAAAAAAAAAAgA=</HashCode>
+      <FileName>HostConfigItem.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SystemConfig.LogConfigItem" Collapsed="true">
+    <Position X="11.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAQAAAgA=</HashCode>
+      <FileName>LogConfigItem.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="SystemConfig.IConfig" Collapsed="true">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>IConfig.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SystemConfig.IHostConfigure" Collapsed="true">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAMIAAACABAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>IHostConfigure.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

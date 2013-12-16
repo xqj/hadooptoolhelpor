@@ -1,0 +1,12 @@
+D:\Project\hive\HiveService\bin\Release\hostConfig.xml
+D:\Project\hive\HiveService\bin\Release\HiveService.dll
+D:\Project\hive\HiveService\bin\Release\HiveService.pdb
+D:\Project\hive\HiveService\bin\Release\hive-sharp-lib.dll
+D:\Project\hive\HiveService\bin\Release\LogService.dll
+D:\Project\hive\HiveService\bin\Release\SystemConfig.dll
+D:\Project\hive\HiveService\bin\Release\Thrift.dll
+D:\Project\hive\HiveService\bin\Release\LogService.pdb
+D:\Project\hive\HiveService\bin\Release\SystemConfig.pdb
+D:\Project\hive\HiveService\obj\Release\HiveService.csprojResolveAssemblyReference.cache
+D:\Project\hive\HiveService\obj\Release\HiveService.dll
+D:\Project\hive\HiveService\obj\Release\HiveService.pdb

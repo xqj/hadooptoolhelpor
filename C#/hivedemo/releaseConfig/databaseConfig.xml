@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<ArrayOfDatabaseConfigItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <DatabaseConfigItem>
+        <Name>db_autosense_logmgr</Name>
+        <Host>192.168.87.62\SQL2005</Host>
+        <Database>db_autosense_logmgr</Database>
+        <UserName>sa</UserName>
+        <Password>sa</Password>
+        <ItemType>sqlserver</ItemType>
+    </DatabaseConfigItem>
+    <DatabaseConfigItem>
+        <Name>db_autosense_logdata</Name>
+        <Host>192.168.87.62\SQL2005</Host>
+        <Database>db_autosense_logdata</Database>
+        <UserName>sa</UserName>
+        <Password>sa</Password>
+        <ItemType>sqlserver</ItemType>
+    </DatabaseConfigItem>
+</ArrayOfDatabaseConfigItem>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Hive.Sharp.Lib</id>
+    <version>1.0</version>
+    <title>Apache Hive client</title>
+    <authors>Vadim Chekan</authors>
+    <owners>Vadim Chekan</owners>
+    <projectUrl>https://bitbucket.org/vadim/hive-sharp/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Apache Hive client implemented using Thrift interface</description>
+    <summary>Apache Hive client implemented using Thrift interface</summary>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <tags>Hive, Hadoop</tags>
+  </metadata>
+</package>

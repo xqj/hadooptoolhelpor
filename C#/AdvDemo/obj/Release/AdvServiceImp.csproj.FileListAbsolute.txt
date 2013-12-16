@@ -1,0 +1,14 @@
+D:\Project\hive\AdvDemo\bin\Release\hostConfig.xml
+D:\Project\hive\AdvDemo\bin\Release\AdvDemo.dll
+D:\Project\hive\AdvDemo\bin\Release\AdvDemo.pdb
+D:\Project\hive\AdvDemo\bin\Release\HiveService.dll
+D:\Project\hive\AdvDemo\bin\Release\LogService.dll
+D:\Project\hive\AdvDemo\bin\Release\SystemConfig.dll
+D:\Project\hive\AdvDemo\bin\Release\Thrift.dll
+D:\Project\hive\AdvDemo\bin\Release\hive-sharp-lib.dll
+D:\Project\hive\AdvDemo\bin\Release\HiveService.pdb
+D:\Project\hive\AdvDemo\bin\Release\LogService.pdb
+D:\Project\hive\AdvDemo\bin\Release\SystemConfig.pdb
+D:\Project\hive\AdvDemo\obj\Release\AdvServiceImp.csprojResolveAssemblyReference.cache
+D:\Project\hive\AdvDemo\obj\Release\AdvDemo.dll
+D:\Project\hive\AdvDemo\obj\Release\AdvDemo.pdb
